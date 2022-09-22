@@ -133,7 +133,7 @@ body, * {
 }
 .footer input[type="submit"] {
     background-color: silver;
-    color: white;
+    color: silver;
     padding: 5px;
     align-self: flex-start;
     border-radius: 4px;
